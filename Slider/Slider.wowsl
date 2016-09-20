@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>7.6</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>move</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>true</FullScreen>
+            <GalleryName>Slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>glass_parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/prime_time/</ImageTemplate>
+            <ImageTemplateName>Prime Time</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/JairoAljady/Desktop/PRACTICAS HTML5/site jairoaljady/Slider/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/JairoAljady/Desktop/PRACTICAS HTML5/site jairoaljady/Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>1</SwipeSupport>
+            <TemplateColor>#4589ce</TemplateColor>
+            <TemplateFont>Open Sans Condensed</TemplateFont>
+            <TemplateName>prime_time</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Fotografias/Galería de Fotos Maricarmen y Jairo/Serie San Cristobal/Serie San Cristobal (10).JPG</url>
+                <title>Serie Azules</title>
+                <description>Iglesia San Cristóbal, Tlacotalpan, Veracruz.</description>
+                <filesize>2061827</filesize>
+            </Image>
+            <Image>
+                <url>D:/Fotografias/Galería de Fotos Maricarmen y Jairo/Serie San Cristobal/Serie San Cristobal (2).JPG</url>
+                <title>Serie Azules</title>
+                <description>Iglesia San Cristóbal, Tlacotalpan, Veracruz.</description>
+                <filesize>1958481</filesize>
+            </Image>
+            <Image>
+                <url>D:/Fotografias/Galería de Fotos Maricarmen y Jairo/Serie San Cristobal/Serie San Cristobal (4).JPG</url>
+                <title>Serie Azules</title>
+                <description>Iglesia San Cristóbal, Tlacotalpan, Veracruz.</description>
+                <filesize>1801038</filesize>
+            </Image>
+            <Image>
+                <url>D:/Fotografias/Galería de Fotos Maricarmen y Jairo/Serie San Cristobal/Serie San Cristobal (6).JPG</url>
+                <title>Serie Azules</title>
+                <description>Iglesia San Cristóbal, Tlacotalpan, Veracruz.</description>
+                <filesize>2150184</filesize>
+            </Image>
+            <Image>
+                <url>D:/Fotografias/Galería de Fotos Maricarmen y Jairo/Serie San Cristobal/Serie San Cristobal (7).JPG</url>
+                <title>Serie Azules</title>
+                <description>Iglesia San Cristóbal, Tlacotalpan, Veracruz.</description>
+                <usertarget>_self</usertarget>
+                <filesize>1869664</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
